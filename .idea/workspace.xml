@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbc788a7-4d36-4a53-82c3-7ac8e4cba439" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vòng lặp while/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vòng lặp do while/dowhilesample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vòng lặp lồng nhau/sout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,11 +49,17 @@
       <option name="presentableId" value="Default" />
       <updated>1602474568249</updated>
       <workItem from="1602474569296" duration="5054000" />
-      <workItem from="1602491116893" duration="3011000" />
+      <workItem from="1602491116893" duration="6358000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="646" y="176" key="run.anything.popup" timestamp="1602497149035">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="646" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1602497149035" />
   </component>
 </project>
